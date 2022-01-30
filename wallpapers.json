@@ -10,8 +10,10 @@
 {
 "name": "Strokes 2",
 "author": "IcarusAP",
-"url": "https://imgur.com/5rd9D4u"
+"url": "https://imgur.com/5rd9D4u",
 "thumbnail": "https://imgur.com/5rd9D4u"
+"dimensions": "1320x2340"
+"copyright": "IcarusAP"
  
 },
 {
@@ -20,12 +22,15 @@
 "url": "https://imgur.com/KfwBs74",
 "thumbnail": "https://imgur.com/KfwBs74",
 "dimensions": "1320x2340"
+"copyright": "IcarusAP"
 },
 {
 "name": "Shapes 2",
 "author": "IcarusAP",
 "url": "https://imgur.com/j9IIenQ",
 "thumbnail": "https://imgur.com/j9IIenQ"
+"dimensions": "1320x2340"
+"copyright": "IcarusAP"
  
 },
 {
@@ -33,6 +38,7 @@
 "author": "IcarusAP",
 "url": "https://imgur.com/E1TKjzD",
 "thumbnail": "https://imgur.com/E1TKjzD"
+"dimensions": "1320x2340"
  
 },
 
@@ -41,6 +47,9 @@
 "author": "IcarusAP",
 "url": "https://imgur.com/uNE83k9",
 "thumbnail": "https://imgur.com/uNE83k9"
+"dimensions": "1320x2340"
+"copyright": "IcarusAP"
+ 
  
 }
 ]
